@@ -19,4 +19,4 @@ Created by: Junead Khan, Sana Navaid, and Haritha Mohan
 
 ## Syntax
 
- <img src="Syntax" width="240"/>
+ <img src="Syntax.png" width="240"/>
