@@ -16,3 +16,7 @@ Use the play button to run the main function.
 Then simply use the commands listed in the Syntax Guide to utilise the many mathematical commands in HomeworkREPL.
 
 Created by: Junead Khan, Sana Navaid, and Haritha Mohan
+
+## Syntax
+
+ <img src="Syntax" width="240"/>
