@@ -1,4 +1,4 @@
-# **The Homework REPL:** 
+# **The Homework REPL 📝💯** 
 ## An easy to use declarative REPL for quick High-School Homework Caluclations
 
 New to programming? Tired of seeing ERROR every time you try to program? Feel frustrated with your math homework? Want easy yet instantaneous solutions? Have no fear, the Homework REPL is here!
